@@ -1,0 +1,7 @@
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/StdEnrollmentApplication.java
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/controllers/studentController.java
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/repositories/StudentRepository.java
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/requests/CreateStudentInput.java
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/services/studentServices.java
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/requests/UpdateStudentInput.java
+/Users/adithyasamudrala/IdeaProjects/studentManager/studentManager/src/main/java/com/adi/stdenrollment/entities/student.java
